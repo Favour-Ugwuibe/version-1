@@ -6,3 +6,4 @@
 
      (b) git add . (To stage all files)
  3. commit; git commit -m "First Commit"
+ 4. Push; git push -u origin main
