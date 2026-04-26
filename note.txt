@@ -5,5 +5,7 @@
      (a) git add <filename> (only one file)
 
      (b) git add . (To stage all files)
+
  3. Commit; git commit -m "First Commit"
+ 
  4. Push; git push -u origin main
