@@ -31,5 +31,13 @@ nav a{
     min-height: 50vh;
 }
 .features {
-    background color: blue;
+    background-color: red;
+    color: white;
+    min-height: 50vh;
+}
+
+.contact {
+    background-color: green;
+    color: white;
+    min-height: 50vh;
 }
