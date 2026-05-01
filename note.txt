@@ -9,3 +9,14 @@
  3. Commit; git commit -m "First Commit"
  
  4. Push; git push -u origin main
+
+ Branching
+  1. Create a branch
+  git branch <branch-name>
+  git checkout <branch-name>
+ 
+ 2. Implement the features or fix
+
+ 3. Stage and push changes to github
+
+ 4. Submit a pull Request.
